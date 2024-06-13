@@ -1,0 +1,14 @@
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334-Project.csproj.AssemblyReference.cache
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334_Project.Form1.resources
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334_Project.Properties.Resources.resources
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334-Project.csproj.GenerateResource.cache
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334-Project.csproj.CoreCompileInputs.cache
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334_Project.Form2.resources
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334_Project.Form3.resources
+C:\Users\Sude\Desktop\Come334-Project\bin\Debug\admin.csv
+C:\Users\Sude\Desktop\Come334-Project\bin\Debug\Come334-Project.exe.config
+C:\Users\Sude\Desktop\Come334-Project\bin\Debug\Come334-Project.exe
+C:\Users\Sude\Desktop\Come334-Project\bin\Debug\Come334-Project.pdb
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334_Project.Form4.resources
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334-Project.exe
+C:\Users\Sude\Desktop\Come334-Project\obj\Debug\Come334-Project.pdb
